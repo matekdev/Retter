@@ -26,7 +26,3 @@ Pages are setup using [Mobx](https://pub.dev/packages/mobx) and a viewmodel patt
 ## TODO List
 
 https://github.com/mzegar/Retter/issues
-
-## Video showcase (Old version)
-
-[<img src="/screenshots/Video thumbnail.jpg" width="275">](https://www.youtube.com/watch?v=a_tQ7w4Oda0) 
